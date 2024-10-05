@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "SuperMart",
+    "balance": 5000.00
+  },
+  {
+    "id": "2",
+    "name": "TechStore",
+    "balance": 3000.00
+  }
+]
